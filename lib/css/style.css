@@ -16,6 +16,7 @@ main{
    margin: auto;
    background-position: center;
    align-items:flex-end;
+   position: relative;
 }
 
 .arrow-sec {
@@ -23,7 +24,7 @@ main{
    width: 4px;
    border-radius: 4px;
    position: absolute;
-   top: 30%;
+   top: 50%;
    left: 50%;
    transform-origin: top;
    background-color: brown;
